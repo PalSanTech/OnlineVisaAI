@@ -1,0 +1,5 @@
+{
+  "name": "SchengenVisaAI",
+  "description": "An AI-powered assistant to streamline your Schengen visa application process. Generate authentic itineraries, professional cover letters, and check real-time requirements with Google Search grounding.",
+  "requestFramePermissions": []
+}
